@@ -1,0 +1,64 @@
+<svg width="960" height="720" viewBox="0 0 960 720" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">AI marketing consultation visual</title>
+  <desc id="desc">Abstract black and gold artificial intelligence dashboard with neural network lines and marketing growth signals.</desc>
+  <rect width="960" height="720" rx="18" fill="#050505"/>
+  <g opacity=".42">
+    <path d="M120 0V720M240 0V720M360 0V720M480 0V720M600 0V720M720 0V720M840 0V720" stroke="#D4AF37" stroke-width="1"/>
+    <path d="M0 120H960M0 240H960M0 360H960M0 480H960M0 600H960" stroke="#D4AF37" stroke-width="1"/>
+  </g>
+  <circle cx="706" cy="324" r="226" stroke="#D4AF37" stroke-width="2" opacity=".34"/>
+  <circle cx="706" cy="324" r="126" stroke="#F4D03F" stroke-width="1.5" opacity=".46"/>
+  <path d="M706 98V550M480 324H932M546 164L866 484M866 164L546 484" stroke="#D4AF37" stroke-width="3" opacity=".22"/>
+  <g filter="url(#glow)">
+    <path d="M190 458C280 364 355 410 430 298C506 184 626 206 714 128" stroke="url(#gold)" stroke-width="7" stroke-linecap="round"/>
+  </g>
+  <path d="M190 458C280 364 355 410 430 298C506 184 626 206 714 128" stroke="#FFF2B1" stroke-width="2" stroke-linecap="round" opacity=".86"/>
+  <g>
+    <rect x="112" y="112" width="266" height="162" rx="8" fill="#0B0B0B" stroke="url(#gold)" stroke-width="2"/>
+    <path d="M146 226V172M202 226V146M258 226V188M314 226V132" stroke="#F4D03F" stroke-width="9" stroke-linecap="round"/>
+    <path d="M146 226H328" stroke="#F5F5F5" stroke-width="2" opacity=".58"/>
+    <circle cx="314" cy="132" r="9" fill="#F4D03F"/>
+  </g>
+  <g>
+    <rect x="130" y="352" width="230" height="168" rx="8" fill="#0A0A0A" stroke="#FFFFFF" stroke-opacity=".13"/>
+    <circle cx="182" cy="430" r="36" fill="#D4AF37" fill-opacity=".16" stroke="#F4D03F" stroke-width="2"/>
+    <circle cx="266" cy="400" r="24" fill="#D4AF37" fill-opacity=".12" stroke="#D4AF37" stroke-width="2"/>
+    <circle cx="292" cy="476" r="30" fill="#D4AF37" fill-opacity=".12" stroke="#F4D03F" stroke-width="2"/>
+    <path d="M216 426L244 408M276 424L286 448M214 442L262 466" stroke="#D4AF37" stroke-width="2"/>
+  </g>
+  <g filter="url(#soft)">
+    <circle cx="706" cy="324" r="52" fill="url(#core)"/>
+    <path d="M706 236V182M706 466V520M618 324H564M848 324H902M644 262L604 222M768 386L808 426M768 262L808 222M644 386L604 426" stroke="#F4D03F" stroke-width="5" stroke-linecap="round"/>
+    <circle cx="706" cy="182" r="11" fill="#F4D03F"/>
+    <circle cx="706" cy="520" r="11" fill="#F4D03F"/>
+    <circle cx="564" cy="324" r="11" fill="#F4D03F"/>
+    <circle cx="902" cy="324" r="11" fill="#F4D03F"/>
+    <circle cx="604" cy="222" r="11" fill="#F4D03F"/>
+    <circle cx="808" cy="426" r="11" fill="#F4D03F"/>
+    <circle cx="808" cy="222" r="11" fill="#F4D03F"/>
+    <circle cx="604" cy="426" r="11" fill="#F4D03F"/>
+  </g>
+  <g opacity=".9">
+    <rect x="505" y="556" width="288" height="52" rx="8" fill="#101010" stroke="#D4AF37" stroke-opacity=".34"/>
+    <path d="M532 584H750" stroke="#F4D03F" stroke-width="4" stroke-linecap="round"/>
+    <circle cx="792" cy="582" r="11" fill="#F4D03F"/>
+  </g>
+  <defs>
+    <linearGradient id="gold" x1="190" y1="458" x2="714" y2="128" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#C9A227"/>
+      <stop offset=".48" stop-color="#F4D03F"/>
+      <stop offset="1" stop-color="#D4AF37"/>
+    </linearGradient>
+    <radialGradient id="core" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(706 324) rotate(90) scale(52)">
+      <stop stop-color="#FFF7D1"/>
+      <stop offset=".5" stop-color="#F4D03F"/>
+      <stop offset="1" stop-color="#8B6F13"/>
+    </radialGradient>
+    <filter id="glow" x="148" y="86" width="608" height="414" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="12"/>
+    </filter>
+    <filter id="soft" x="532" y="150" width="402" height="402" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="1"/>
+    </filter>
+  </defs>
+</svg>
